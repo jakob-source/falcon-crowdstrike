@@ -137,3 +137,7 @@ aid_master.csv - hostnames description
 detect_patterns.csv - all possible CS detections
 group_info.csv - list of groups
 ```
+Read lookup table
+```
+| inputlookup PolicyTag.csv
+```
