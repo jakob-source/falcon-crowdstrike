@@ -1,0 +1,17 @@
+DetectName,Scenario
+"Activity Prevented","activity_prevented"
+"Blocked Exploit","blocked_exploit"
+"Blocked Hash","blocked_hash"
+"Credential Theft","credential_theft"
+"Drive By Download","drive_by_download"
+"Intel Detection","intel_detection"
+"Known Malware","known_malware"
+"Machine Learning","machine_learning"
+"Malicious Document","malicious_document"
+NGAV,NGAV
+"Overwatch Detection","overwatch_detection"
+"Privilege Escalation","privilege_escalation"
+"Process Terminated","process_terminated"
+"Social Engineering","social_engineering"
+"Suspicious Activity","suspicious_activity"
+"Web Exploit","drive_by_download"
